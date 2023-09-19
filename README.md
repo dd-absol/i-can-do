@@ -1,13 +1,15 @@
 # i-can-do
 a compilation of projects that say "I can do x, I can do y"
 
-I created this repo with the goal of better document my learnings, abilities and progress. 
-My vision is to create not only a way to better sell myself, but also to gather useful knowledge, problems and techniques in one place.
+I created this repo with the goal of better documenting my learnings, abilities and progress. 
+My vision is to create a way to better sell myself, but also to gather useful knowledge, problems and techniques in one place.
 
 The languages featured here for now are:
 - Rust
 - Haskell
 - Elixir
+
+More languages that are not featured but that "I can" definitely "do":
 
 I love to explore different and fun(ctional) languages in my free time. I was introduced to functional programming during my first actual computer science classes with OCaml, a language that I have proceeded to never use again outside of those, and that I have written more lines of on paper than in an actual editor, but that I'll mention here because I still love it to this day.
 
