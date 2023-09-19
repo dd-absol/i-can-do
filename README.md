@@ -9,4 +9,8 @@ The languages featured here for now are:
 - Haskell
 - Elixir
 
-I love to explore different and fun languages in my free time, but I do also work with C# and JS at my current internship, and probably definitely have more professionnal experience with those two than the rest, sorry if it is not documented too well here
+I love to explore different and fun(ctional) languages in my free time. I was introduced to functional programming during my first actual computer science classes with OCaml, a language that I have proceeded to never use again outside of those, and that I have written more lines of on paper than in an actual editor, but that I'll mention here because I still love it to this day.
+
+I do also work with C# and JS at my current 6-months internship, and definitely have more professionnal experience with those two than the rest, sorry if it is not documented too well here.
+
+I also used Python for most of my school projects, as it is the language of choice when studying engineering as a whole in France, because of the many mathematic libraries and applications and the simple beginner friendly syntax. I have however chosen to not put any Python here because I have grown to not like the language and would never deliberately choose it for a personal project.
