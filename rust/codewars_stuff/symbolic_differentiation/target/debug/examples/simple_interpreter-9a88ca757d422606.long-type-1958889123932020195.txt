@@ -1,0 +1,1 @@
+Map<TakeWhile<SplitWhitespace<'_>, [closure@examples/simple_interpreter.rs:122:40: 122:46]>, [closure@examples/simple_interpreter.rs:122:66: 122:72]>
